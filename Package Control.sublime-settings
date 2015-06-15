@@ -1,0 +1,18 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ChangeQuotes",
+		"Duplicate Lines",
+		"Git",
+		"GitGutter",
+		"Markdown Preview",
+		"MoveTab",
+		"Package Control",
+		"Railscasts Extended",
+		"SideBarEnhancements"
+	]
+}
