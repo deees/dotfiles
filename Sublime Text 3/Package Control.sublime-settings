@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -9,10 +10,11 @@
 		"Duplicate Lines",
 		"Git",
 		"GitGutter",
-		"Markdown Preview",
+		"MarkdownPreview",
 		"MoveTab",
 		"Package Control",
 		"Railscasts Extended",
+		"Sass",
 		"SideBarEnhancements"
 	]
 }
